@@ -1,0 +1,14 @@
+# Segredos
+.env
+
+# Ambiente virtual e cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Dados de execução (bancos, estado, histórico de envios)
+data/*.db
+data/*.db-journal
+bot_status.json
+rodizio.json

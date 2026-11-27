@@ -1,0 +1,15 @@
+{
+  "pausado": false,
+  "palavras_chave": [
+    "Banho"
+  ],
+  "palavras_por_ciclo": 1,
+  "paginas_por_busca": 2,
+  "limite_por_busca": 5,
+  "pausa_entre_requisicoes": 40,
+  "coletar_a_cada_minutos": 3,
+  "publicar_a_cada_segundos": 60,
+  "min_comissao": 0.01,
+  "min_vendas": 0,
+  "min_avaliacao": 0.0
+}
